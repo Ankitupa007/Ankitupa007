@@ -1,10 +1,64 @@
-- # 👋 Hi, I’m Ankit Upadhyay 
-- 👀 I’m interested in Design, programming, website development, doodling and learning new things
-- 🌱 I’m currently learning ReactJS, and practicing UI/UX design
-- 💞️ I’m looking to collaborate on learning javascript together
-- 📫 Reach me at instagram @thisisankitupadhyay or mail me ankit.upa007@gmail.com   
+ # Ankit Upadhyay 
 
-<!---
-Ankitupa007/Ankitupa007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍⚕ I'm a Medical Student, UI Designer and Frontend Web Developer based in India 🇮🇳
+
+## 🛠 Skills 
+
+I earn skills learning from articles, blogs, YouTube and from tech personalities.
+
+### 💻 Web Development
+
+- HTML5
+- CSS3
+- Javascript
+- Git & Github
+- ReactJS
+- Wordpress
+
+### 📦 UI design
+
+- Figma ✨
+- Canva
+
+### ✍️ Blogging
+
+- [theankitnet](https://theankitnet.com/blog)
+- [Medium](https://theankitnet.medium.com)
+
+### 🎨 Art
+
+- [Doodles](https://theankitnet.com/doodles/)
+- [Illustrations](https://tangramm.netlify.app/)
+ 
+## 💾 Projects
+
+### 💻 Front End Web projects
+
+All of my Frontend Web Development Projects are hosted on [@fewprojects](https://github.com/fewprojects)
+
+### 📦 Design Projects
+
+I use Figma for desgin, so you can see my design projects [here on my website](https://theankitnet.com/projects/)
+
+## 🎓 Education
+
+### 💉 **Bachelor of Medicine & bachelor of Surgery** (MBBS)
+2019 - 2024 (Studying)
+Government Medical College, Bharatpur
+
+## 🗣 Languages
+
+- Hindi (Native)
+- English (Conversational/Fluent)
+
+## Hire Me on Fiverr
+
+- We can work together and if you have something that I can help with, Hire me on [Fiverr](https://www.fiverr.com/d_ankitupadhyay?up_rollout=true)
+
+## ☎️ Contact Me
+
+- [Through Blog](https://theankitnet.com/contact-me/)
+- [Twitter](https://www.twitter.com/iamankitupadhay)
+- [Instagram](https://www.instagram.com/thisisankitupadhyay)
+- [LinkedIn](https://www.linkedin.com/in/thisisankitupadhyay)
+- [Pinterest](https://www.pinterest.ca/theankitnet/)
