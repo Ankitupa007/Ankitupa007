@@ -57,6 +57,7 @@ Government Medical College, Bharatpur
 
 ## ☎️ Contact Me
 
+- Email : theankitnet@gmail.com
 - [Through Blog](https://theankitnet.com/contact-me/)
 - [Twitter](https://www.twitter.com/iamankitupadhay)
 - [Instagram](https://www.instagram.com/thisisankitupadhyay)
