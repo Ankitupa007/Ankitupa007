@@ -55,7 +55,7 @@ Government Medical College, Bharatpur
 
 - We can work together and if you have something that I can help with, Hire me on [Fiverr](https://www.fiverr.com/d_ankitupadhyay?up_rollout=true)
 
-## ☎️ Contact Me
+## ✉️ Contact Me
 
 - Email : theankitnet@gmail.com
 - [Through Blog](https://theankitnet.com/contact-me/)
