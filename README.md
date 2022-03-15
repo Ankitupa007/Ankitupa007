@@ -1,6 +1,4 @@
-```diff
-! Please visit this Organization for Projects
-```
+⚠️ Please Visit [@fewprojects](https://github.com/fewprojects) to see repositories of projects 🙌
 
  # Ankit Upadhyay 
 
