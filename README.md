@@ -6,7 +6,7 @@
 
 ## 🛠 Skills 
 
-I earn skills learning from articles, blogs, YouTube and from tech personalities.
+I earn skills by learning from articles, blogs, YouTube and from tech personalities.
 
 ### 💻 Web Development
 
